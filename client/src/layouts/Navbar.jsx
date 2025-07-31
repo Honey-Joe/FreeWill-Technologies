@@ -47,7 +47,7 @@ const Navbar = () => {
             <Link to={"/contact"}>Contact</Link>
           </li>
           <li className="font-medium font-[Nunito] hover:border-b-2 hover:border-b-blue-800   transition-all duration-500 ease-in-out">
-            <Link to={"/resumebuilder"}>Resume Builder</Link>
+            <Link to={"https://resumebuilder.freewilltech.in"}>Resume Builder</Link>
           </li>
         </ul>
       </div>
