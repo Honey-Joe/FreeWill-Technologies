@@ -18,6 +18,7 @@ const Home = () => {
           <Offer />
           <GetInTouch />
         </div>
+        
       </Layout>
     </div>
   );
