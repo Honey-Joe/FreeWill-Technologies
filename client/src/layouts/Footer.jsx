@@ -11,8 +11,8 @@ const Footer = () => {
         <div className="flex flex-col gap-4">
           <img src={logo} alt="logo" className="w-[80px] h-[80px]" />
           <p className="text-text-light text-lg leading-relaxed">
-            Honest, Transparent and Results-Driven Company with Experts in
-            Latest Tech, Helping Businesses Grow.
+            Free Will Technologies <br /> Incubated @ Joseph's Startup Center, <br />
+            St.Joseph's College (Autonomous), Tiruchirappalli - 620 002
           </p>
           <div className="flex items-center gap-3">
             <a
